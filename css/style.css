@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap');
+
+body{
+    background-color: #151719 !important;
+}
+
+.navbar-nav a {
+    color: white !important;
+}
+.navbar .btn{
+    padding: 5px 23px!important;
+    border-radius: 2px !important;
+}
+.darkC a{
+    color: #9ca9b3 !important;
+}
+.darkC a:hover{
+    color: #DCDEDE !important;
+}
+/* ************************* */
+/* ***** Header desigh ***** */
+/* ************************* */
+.head1{
+    font-family: 'Inter', sans-serif;
+    font-size: 52px;
+    font-weight: 800;
+    color: #eceded;
+}
+.colorPart{
+    color: #5658dd;
+}
+.hPara{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    color:#9ca9b3;
+}
+.btn1 a{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+.header .btn{
+    padding: 11px 31px!important;
+    border-radius: 2px !important;
+}
+.btn:focus{
+    outline: none !important;
+}
+.btn-primary {
+    color: #eceded;
+    background-color: #6163ff !important;
+    border-color: #6163ff !important;
+}
+.btn-primary:hover {
+    background-color: #686bfa !important;
+    border-color: #686bfa !important;
+}
+.btn-dark {
+    color: #eceded;
+    background-color: #25282c !important;
+    border-color: #25282c !important;
+}
+.btn-dark:hover {
+    background-color: #2f3338 !important;
+    border-color: #25282c !important;
+}
+
+
+/* ************************ */
+/* **Image section desigh** */
+/* ************************ */
+img{
+    width: 100%;
+}
+.playBtn{
+    border: 0!important;
+}
+.playBtn:focus{
+    outline: none!important;
+}
+.playBtn img{
+    width: 82%;
+}
+.image>.container{
+    position: relative !important;
+}
+.modal-content{
+    position: absolute !important;
+    top: 10% !important;
+    left: -40% !important;
+}
+
+
+/* *************************** */
+/* **Workflow section desigh** */
+/* *************************** */
+.secHead{
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+.secHead h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 44px;
+    font-weight: 800;
+    color: #eceded;
+}
+.secHead p{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #9ca9b3;
+}
